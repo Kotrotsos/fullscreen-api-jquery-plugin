@@ -1,9 +1,8 @@
 fullscreen-api-jquery-plugin
 ============================
 
-Fullscreen jQuery Plugin
-
-To use:
+Fullscreen jQuery Plugin that takes care of the prefix hell we are in at the moment. When things change, 
+I will update the plugin.
 
 To go fullscreen on an element, you need to bind it to a user event first. 
 
